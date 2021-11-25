@@ -1,0 +1,25 @@
+UserID||Username||Password||PositionID
+U002||boss1||123||M001
+U004||123||123||C002
+U005||tuckus||abcd||C003
+U006||boss2||abcd||M002
+U007||John||123||C004
+U009||Ryan||123||C006
+U010||JosephJoestar||123||C007
+U011||Speedwagon||123||M003
+U014||Bruh||123||C010
+U023||JohnMan||123||D001
+U024||Ryantheman||123||D002
+U028||ijksadhf||123||D006
+U029||asdf||123||D007
+U031||StarPlat||123||M004
+U033||Testtt||123||M006
+U036||Irfan||123||M009
+U037||Kai Wen||123||D009
+U038||Itachi||123||C013
+U039||bruv||123||C014
+U040||no||123||C015
+U041||Brum||123||C016
+U042||testcv||123||C017
+U043||ryan||123||C018
+U044||Amy||123||M010

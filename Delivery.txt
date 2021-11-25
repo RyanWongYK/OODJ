@@ -1,0 +1,4 @@
+Delivery Id||Order Id||Customer Id||Date||DeliveryStaffId
+D003||O004||C010||1/1/2020||D009
+D004||O007||C006||1/1/2020||D009
+D005||O006||C002||1/1/2020||D009

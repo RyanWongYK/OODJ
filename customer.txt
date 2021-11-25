@@ -1,0 +1,15 @@
+CustomerId||CustomerName||CustomerAddress||CustomerPhone
+C001||Samasdgfasntha||Subaffng||1233124
+C002||Sam||Subang||123
+C003||Lee||Puchong||0123-45
+C004||Jonathan Joestar||123 Street||012392442314
+C005||Johnman||123 shtiface||0129309141
+C006||Ryan||123 bruhv||0981238714
+C007||Joseph Joestar||123 jadois||0129810412
+C010||bruh||123 bruh||018923914
+C013||Itachi Uchiha||123 efssdfg||123 aosjdio
+C014||broooo||123 street||012399184123
+C015||no||123 asda||012931924
+C016||blum||123 fjidkvn||019123894
+C017||Testtt||123 sdf||213141412
+C018||Ryan||3532 A Jln 18/46 Taman Sri Serdang 43300 Seri Kembangan Seri Kembangan 43300 Malaysia Seri Kembangan||038948-1532

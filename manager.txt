@@ -1,0 +1,8 @@
+ManagerId||ManagerName||ManagerEmployeeId
+M001||Boss||E013
+M002||Darren||E012
+M003||Speedwagon||E001
+M004||Jotaro Kujo||E005
+M006||Tester||E009
+M009||I'rfan||E015
+M010||Amy||E002
